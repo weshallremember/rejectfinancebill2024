@@ -1,3 +1,5 @@
+# #RejectFinanceBill2024
+
 ## Purpose
 
 A wall of the power-greedy shenanigans who thought they were leading sheep to their slaughter-house.
@@ -12,9 +14,17 @@ A warning to those who believe they can manipulate the new generations here and 
 - Do not use spaces in the folder names
 - General media should be properly included in the appropriate folder
 - Only images and videos are allowed for record purposes
+- Send PRs!
 - *Remember to change your commit details for privacy purposes using the below commands in your local machine Terminal:*
 
 ```
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
+
+
+### Usage
+
+- Clone, clone, clone!!! And check for updates frequently!
+- If repo is taken down, create new one and reshare!
+
